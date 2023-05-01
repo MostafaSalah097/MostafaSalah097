@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">A passionate fullstack .Net developer from India</h3>
+<h3 align="center">A passionate fullstack .Net developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Ecommerce**
 
